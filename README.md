@@ -15,3 +15,4 @@ When the user accepts it for all elements of this type, the cookie - which conta
 ### How to use it?
 - Just change all elements with a ```src``` attribute to ```data-src``` instead and add a ```data-gdpr``` attribute with a unique identifier for the content type - i.e. ```data-gdpr="youtube"```
 - Modify the text to be shown as you desire
+- (optional) Modify the name of the cookie
